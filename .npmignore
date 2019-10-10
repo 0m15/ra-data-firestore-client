@@ -1,15 +1,8 @@
-node_modules
 *~
 tmp
 yarn.lock
 package-lock.json
 .idea
-.babel*
 .editorconfig
-.eslintrc.json
 .gitignore
-config
-public
-scripts
-src
-test
+
